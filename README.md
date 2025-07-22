@@ -8,8 +8,8 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Frontend Engineer @ Uber (joining August 2025)  
-- 💻 3+ years building scalable web applications at **Flipkart** & **Swiggy**  
+- 🔭 Frontend Engineer @ Uber
+- 💻 4+ years building scalable web applications at **Uber**, **Flipkart** & **Swiggy**  
 - 💡 Passionate about **AI‑powered UIs**, **system design**, and **authorization architectures**  
 - 🌱 Currently exploring **server-driven UIs**, **no-code platforms**, and **DevOps automation**  
 - 📍 Based in Bengaluru, India
