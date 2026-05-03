@@ -8,12 +8,14 @@
 
 Frontend Engineer @ Uber with 4+ years of experience building scalable web applications at Uber, Flipkart, and Swiggy. Based in Bengaluru, India.
 
+Currently building a SaSS ,something crazy loading up
+
 I'm passionate about AI-powered UIs, system design, and building innovative solutions.
 
 ## 🛠️ Tech Stack
 
 **Frontend:** React, Next.js, TypeScript, Tailwind CSS  
-**Backend:** Go, Node.js, MongoDB  
+**Backend:** Go, Node.js, MongoDB , Python
 **Tools:** Docker, Kubernetes, GitHub Actions, AWS
 
 ## 📂 Featured Projects
